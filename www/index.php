@@ -1,3 +1,3 @@
 <?php
-echo "Powerful website with quality weather stations";
+echo "<h1>Powerful website with quality weather stations</h1>";
 ?>
